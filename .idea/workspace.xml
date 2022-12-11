@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="vzlom-knopki:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="98246da8-4b4d-4f70-9b90-5184b56737b0" name="Changes" comment="" />
+    <list default="true" id="98246da8-4b4d-4f70-9b90-5184b56737b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +17,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../Library/Java/JavaVirtualMachines/liberica-1.8.0_312/jre/lib/rt.jar!/sun/lwawt/macosx/CTrayIcon.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../Library/Java/JavaVirtualMachines/liberica-1.8.0_312/src.zip!/java/awt/PopupMenu.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../Library/Java/JavaVirtualMachines/liberica-1.8.0_312/src.zip!/java/awt/SystemTray.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../Library/Java/JavaVirtualMachines/liberica-1.8.0_312/src.zip!/java/awt/TrayIcon.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../Library/Java/JavaVirtualMachines/liberica-1.8.0_312/src.zip!/java/awt/peer/TrayIconPeer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IlYew2k4g5dHz3VLeM9znMxjXw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +38,34 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sonic/vzlom-knopki",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="vzlom-knopki" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +74,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670757736530</updated>
+      <workItem from="1670757737955" duration="3170000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
