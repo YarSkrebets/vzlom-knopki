@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="vzlom-knopki:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/vzlom_knopki_jar</output-path>
+    <root id="archive" name="vzlom-knopki.jar">
+      <element id="module-output" name="vzlom-knopki" />
+    </root>
+  </artifact>
+</component>
